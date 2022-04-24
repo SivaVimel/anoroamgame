@@ -1,4 +1,4 @@
-# Anoroam-Gamers
+# Anoroam-Gamers Arena
 Source code of Gamers Arena section for website anoroam - Powered By ScriptieZ
 
 # Getting Started with Create React App
